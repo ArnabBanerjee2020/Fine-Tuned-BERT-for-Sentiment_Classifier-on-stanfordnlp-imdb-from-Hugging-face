@@ -53,12 +53,12 @@ Custom test report
 
 IN code 2.1 and 2.2 i have did a compation between Fine tune BERT and (Tf-IDS + Logistic Regression) Model, where i obtained that on custome dataset 
 
-<img width="846" height="654" alt="image" src="https://github.com/user-attachments/assets/06824215-9549-410c-a339-eb903ac83049" />
-
+<img width="737" height="157" alt="image" src="https://github.com/user-attachments/assets/1095f9db-08bc-45e0-831a-0c0fb28892f2" />
 
 and by comparing both the models it is evaluated that 
 
-<img width="737" height="157" alt="image" src="https://github.com/user-attachments/assets/1095f9db-08bc-45e0-831a-0c0fb28892f2" />
+
+<img width="846" height="654" alt="image" src="https://github.com/user-attachments/assets/f87743df-95a6-44f8-a2fd-f088ff4a9db8" />
 
 
 Hence, use of BERT is more effective in Sentiment analysis for IMDB dataset by StanfordNLP in comparison with the traditional Machine Learning model
