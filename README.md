@@ -72,7 +72,7 @@ Custom test report
 
 ____________________________________________________________________________________________________________________
 
-IN code 2.1 and 2.2 i have did a compation between Fine tune BERT and (Tf-IDS + Logistic Regression) Model, where i obtained that on custome dataset 
+In code 2.1 and 2.2 i have did a compation between Fine tune BERT and (Tf-IDS + Logistic Regression) Model, where i obtained that on custome dataset 
 
 <img width="737" height="157" alt="image" src="https://github.com/user-attachments/assets/1095f9db-08bc-45e0-831a-0c0fb28892f2" />
 
@@ -86,7 +86,7 @@ Hence, use of BERT is more effective in Sentiment analysis for IMDB dataset by S
 
 _________________________________________________________________________________________________________________
 
-In the third Code, used DistilBERT method for Sentiment Classification
+In the third Code 3.0, used DistilBERT method for Sentiment Classification
 
 ## How did it perform?
 
@@ -102,7 +102,7 @@ Obtained Training Loss and accuracy of 90%
 
 _________________________________________________________________________________________________________________
 
-In Forth Code, I show the performance of the LSTM-based traditional deep learning model
+In Forth Code 4.0, I show the performance of the LSTM-based traditional deep learning model
 
 ## How did it perform?
 
