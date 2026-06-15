@@ -112,6 +112,10 @@ The LSTM model achieved competitive performance and significantly outperformed t
 
 <img width="729" height="536" alt="image" src="https://github.com/user-attachments/assets/89af3e54-09e1-496e-920f-e415f1e3cf88" />
 
+<img width="556" height="413" alt="image" src="https://github.com/user-attachments/assets/34c40778-adda-4e13-b024-8f3e22f9ebbd" />
+<img width="556" height="413" alt="image" src="https://github.com/user-attachments/assets/1e27ceca-19a0-4589-93a2-e591ea5a5ecf" />
+
+<img width="691" height="74" alt="image" src="https://github.com/user-attachments/assets/99c9c25a-38ef-4bb8-8dd4-8ce2591d166e" />
 
 
 The LSTM model provided a strong deep learning baseline by learning sequential patterns and sentiment-related dependencies directly from the dataset. However, DistilBERT achieved better overall performance because it utilizes contextual language representations obtained through large-scale pre-training. As a result, DistilBERT was more effective in capturing nuanced sentiment expressions and delivered higher accuracy and F1-score, making it the most suitable model for sentiment classification in this project.
